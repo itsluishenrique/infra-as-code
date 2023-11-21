@@ -1,0 +1,87 @@
+API Management
+
+    az-apim-{apim_projeto}-{apim_name}-{apim_environment}-{apim_contador}
+
+Container Registry
+
+    azcr{cr_name}{cr_projeto}{cr_contador}
+
+Cosmos DB Account
+
+    az-cdba-{cdba_projeto}-{cdba_name}-{cdba_environment}-{cdba_contador}
+
+Data Factory
+
+    az-df-{df_projeto}-{df_name}-{df_environment}-{df_contador}
+
+Databricks Workspace
+
+    az-dtb-{dtb_projeto}-{dtb_name}-{dtb_environment}-{dtb_contador}
+
+Databricks Workspace - Private Endpoint
+
+    az-dtb-{dtb_projeto}-{dtb_name}-{dtb_environment}-pvtend-{dtb_contador}
+
+Databricks Cluster
+
+    az-dtbcls-{dtbcls_projeto}-{dtbcls_name}-{dtbcls_environment}-{dtbcls_contador}
+
+Diagnostics Settings
+
+    az-ds-{ds_projeto}-{ds_name}-{ds_environment}-{ds_contador}
+
+Key Vault
+
+    az-kv-{kv_projeto}-{kv_name}-{kv_environment}-{kv_contador}
+
+Key Vault - Private Endpoint
+
+    az-kv-{kv_projeto}-{kv_name}-{kv_environment}-pvtend-{kv_contador}
+
+Load Balancer
+
+    az-lb-{lb_projeto}-{lb_name}-{lb_environment}-{lb_contador}
+
+Log Analytics
+
+    az-logwks-{logwks_projeto}-{logwks_name}-{logwks_environment}-{logwks_contador}
+
+Private Link Service
+
+    az-pls-{pls_projeto}-{pls_name}-{pls_environment}-{pls_contador}
+
+PurView
+
+    az-pv-{pv_projeto}-{pv_name}-{pv_environment}-{pv_contador}
+
+PurView - Private Endpoint
+
+    az-pv-{pv_projeto}-{pv_name}-{pv_environment}-pvtend-{pv_contador}
+
+Redis Cache
+
+    az-rds-{rds_projeto}-{rds_name}-{rds_environment}-{rds_contador}
+
+Resource Group
+
+    az-rg-{rg_projeto}-{rg_name}-{rg_environment}
+
+Storage Account
+
+    azsa{sa_projeto}{sa_name}{sa_environment}{sa_contador}
+
+Storage Account - Private Endpoint
+
+    azsa{sa_projeto}{sa_name}{sa_environment}pvtend{sa_contador}
+
+Synapse Workspace
+
+    az-sw-{sw_projeto}-{sw_name}-{sw_environment}-{sw_contador}
+
+Virtual Machine - Linux
+
+    azvml{vm_os}{vm_name}{vm_contador}
+
+Virtual Machine - Windows
+
+    azvmw{vm_os}{vm_name}{vm_contador}
